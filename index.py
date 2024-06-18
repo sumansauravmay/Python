@@ -1,0 +1,7 @@
+name="suman";
+print(name)
+
+
+
+
+
