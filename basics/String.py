@@ -45,6 +45,16 @@ length=len(name);
 
 x="I am Suman Saurav";
 
-print(x.split(" "));
-print(x.lower().count("s"))
+# print(x.split(" "));
+# print(x.lower().count("s"))
+# print(x.endswith("a"));
+# print(x.endswith("v"));
+print(x.find("am"));
+print(x.find("v"));
+print(x.index("I"))
+
+
+
+
+
 
