@@ -30,3 +30,8 @@ cities4=cities.symmetric_difference(cities2);
 # del cities; #delete the entire set
 cities.clear(); # delete the all items in the set
 print(cities);
+
+
+
+
+
