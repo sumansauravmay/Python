@@ -17,7 +17,12 @@ print(emp)
 # emp.clear()
 # print(emp)
 
-emp.pop(5);#remove the key 5
-emp.popitem();#remove last item
-print(emp)
+emp.pop(5); #remove the key 5
+emp.popitem(); #remove last item
+del emp2[22];
+print(emp);
+print(emp2);
+
+
+
 
